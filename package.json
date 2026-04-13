@@ -1,0 +1,13 @@
+{
+  "name": "hospify",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev:backend": "npm --prefix backend run dev",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "install:all": "npm --prefix backend install && npm --prefix frontend install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
