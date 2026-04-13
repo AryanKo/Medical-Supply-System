@@ -1,4 +1,4 @@
-# Hospify — Medical Inventory & Order Management (Admin-only)
+# Hospify — Medical Inventory & Order Management (Admin-Side)
 
 Hospify is a production-grade academic DBMS project for managing **hospital departments**, **inventory**, **low-stock alerts**, **vendors**, and **pending orders**.
 
